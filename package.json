@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-import-excel-file-to-mysql",
+  "version": "1.0.0",
+  "description": "Nodejs Import Excel File to MySQL with Read-Excel-File ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "pretest": "node index.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "MySQL",
+    "Excel",
+    "Read-Excel-File"
+  ],
+  "author": "grokonez.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "mv": "^2.1.1",
+    "mysql": "^2.18.1",
+    "node-random-name": "^1.0.1",
+    "read-excel-file": "^2.0.10",
+    "unique-names-generator": "^4.3.0",
+    "xlsx-mysql": "^1.0.8"
+  }
+}
