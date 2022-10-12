@@ -21,7 +21,7 @@
     "mv": "^2.1.1",
     "mysql": "^2.18.1",
     "node-random-name": "^1.0.1",
-    "read-excel-file": "^2.0.10",
+    "read-excel-file": "^5.5.1",
     "unique-names-generator": "^4.3.0",
     "xlsx-mysql": "^1.0.8"
   }
